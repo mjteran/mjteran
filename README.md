@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋 Welcome to My GitHub! 🌟
+💫 Hi, I'm **Maria Jose**!  
 
-## 🌟 Welcome to My GitHub! 🌟
-
-👋 Hi, I'm **Maria Jose**!  
-
-## 💡 About Me  
+### 💡 About Me  
 - 📊 Currently learning **Data Science & Data Analytics**  
 - 📚 Passionate about **reading & exploring new ideas**  
 - ✈️ Love **traveling** and discovering new places  
 - 🐶 Fun fact: **I love dogs!** 🐾  
 
-## 🚀 What You'll Find Here  
+### 🚀 What You'll Find Here  
 - My journey in **Data Science & Analytics**  
 - Projects and experiments as I learn 📈
 

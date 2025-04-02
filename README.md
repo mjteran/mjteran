@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**mjteran/mjteran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 Welcome to My GitHub! 🌟
 
-Here are some ideas to get you started:
+👋 Hi, I'm **Maria Jose**!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me  
+- 📊 Currently learning **Data Science & Data Analytics**  
+- 📚 Passionate about **reading & exploring new ideas**  
+- ✈️ Love **traveling** and discovering new places  
+- 🐶 Fun fact: **I love dogs!** 🐾  
+
+## 🚀 What You'll Find Here  
+- My journey in **Data Science & Analytics**  
+- Projects and experiments as I learn 📈
+
+### 📬 Let's Connect!  
+Feel free to check out my repositories and say hi! 😊

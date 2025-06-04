@@ -2,7 +2,7 @@
 💫 Hi, I'm **Maria Jose**!  
 
 ### 💡 About Me  
-- 📊 Currently learning **Data Science & Data Analytics**  
+- 📊 Currently learning **Data Analytics & Data Science**  
 - 📚 Passionate about **reading & exploring new ideas**  
 - ✈️ Love **traveling** and discovering new places  
 - 🐶 Fun fact: **I love dogs!** 🐾  
